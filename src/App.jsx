@@ -25,11 +25,7 @@ function App() {
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
       </div>
-<<<<<<< HEAD
-      
-=======
->>>>>>> dfd2097 (first commit)
-      <p className="read-the-docs">
+<p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
     </>
